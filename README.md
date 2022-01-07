@@ -1,4 +1,4 @@
-# Detect-crown-of-thorns-starfish (still working on)
+# Detect crown-of-thorns starfish (still working on)
 
   This project detects starfish by implementing Yolov5, which can be found [here](https://github.com/ultralytics/yolov5). There is no official research paper about Yolov5, but many people use it in practice, and it shows a great result. 
 
